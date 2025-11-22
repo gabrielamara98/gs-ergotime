@@ -36,53 +36,24 @@ O objetivo principal do ErgoTime é **conscientizar**, **promover ergonomia** e 
 
 
 ## ▶️ Instruções de uso e replicação  
-*(a preencher)*
-
-> **Espaço reservado para escrever os passos completos:**  
-> – Como montar o circuito  
-> – Como configurar bibliotecas  
-> – Como rodar o firmware  
-> – Como acessar MQTT/HTTP  
-> – Como testar  
-> – Como replicar o protótipo  
-
+Para que seja possivel o uso da aplicação baixe o aplicativo MyMQTT e siga as instruções
+- Abra o app
+- Coloque no Host: test.mosquitto.org
+- Coloque na Porta: 1883
+- Faça as seguintes subscribes
+  - projeto/media -> Retorna a media dos ultimos 5 valores
+  - projeto/ultima -> Retorna a ultima medida coletada
+  - esp32/mqtt -> Devolve uma payload no estilo JSON
 
 ## 🖼️ Imagem do protótipo  
-*(a inserir)*  
-> Adicione aqui a imagem (ou imagens) do dispositivo, montagem e simulação.
-
+<img width="893" height="584" alt="image" src="https://github.com/user-attachments/assets/4104c25e-445d-4b65-969c-65107a3dd378" />
 
 ## 🔗 Link para Wokwi  
-*(a inserir)*  
-> Adicionar o link da simulação Wokwi aqui.
-
+https://wokwi.com/projects/448280877667751937
 
 ## 🎥 Vídeo Explicativo  
 *(a inserir)*  
 > Colocar o link do vídeo final (YouTube).
-
-
-## 📡 Explicação técnica — MQTT  
-*(a preencher)*
-
-> **Espaço reservado para detalhes técnicos, incluindo:**  
-> – Tópico utilizado  
-> – Formato da mensagem  
-> – Exemplo de payload  
-> – Frequência de envio  
-> – QoS, broker, autenticação (se houver)
-
-
-## 📂 Códigos-fonte comentados  
-*(a preencher)*
-
-> **Espaço para adicionar os arquivos:**  
-> – `.ino`  
-> – `.cpp`  
-> – `.h`  
-> – Scripts Python / HTML se usados  
-> Com explicações sobre cada bloco de código.
-
 
 ## 🧰 Tecnologias utilizadas
 
