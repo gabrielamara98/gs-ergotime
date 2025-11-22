@@ -114,7 +114,6 @@ O objetivo principal do ErgoTime é **conscientizar**, **promover ergonomia** e 
       <ul>
         <li>README</li>
         <li>Design</li>
-        <li>Documentação da solução</li>
       </ul>
     </td>
   </tr>
