@@ -52,8 +52,7 @@ Para que seja possivel o uso da aplicação baixe o aplicativo MyMQTT e siga as 
 https://wokwi.com/projects/448280877667751937
 
 ## 🎥 Vídeo Explicativo  
-*(a inserir)*  
-> Colocar o link do vídeo final (YouTube).
+https://youtu.be/ew9bx8-fsqE
 
 ## 🧰 Tecnologias utilizadas
 
